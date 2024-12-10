@@ -1,4 +1,4 @@
-// Generate random heads and tails
+// Java coding exercise: Random coin flip generator (Heads/Tails)
 import java.util.Scanner;
 import java.util.Random;
 public class CoinFlipExercise
